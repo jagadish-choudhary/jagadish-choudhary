@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jagadish Choudhary 👋
 
 **ECE Undergrad | Hardware & C Programmer | Builder**
 
@@ -19,8 +19,8 @@ I am an Electronics and Communication Engineering student bridging the gap betwe
 
 ### 🏆 Featured Projects
 
-1. **[Project Name 1](Link to Repo):** A 1-sentence description of what it does and the hardware/software used.
-2. **[Project Name 2](Link to Repo):** A 1-sentence description.
+1. Drone-Assisted Surface Water Quality Classification Using Image Processing(Link to Repo):**This project bridges mechanical UAV design and real-time computer vision to create an automated system for continuous surface water monitoring. Designed to replace expensive and labor-intensive manual sampling, the system instantly classifies and visualizes water conditions using live aerial telemetry. It serves as a comprehensive showcase of translating complex visual data into an actionable, real-time Heads-Up Display (HUD)
+
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_Link)
