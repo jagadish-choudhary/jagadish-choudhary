@@ -19,7 +19,7 @@ I am an Electronics and Communication Engineering student bridging the gap betwe
 
 ### 🏆 Featured Project
 
-**Drone-Assisted Surface Water Quality Classification Using Image Processing[Link to Repo](https://github.com/jagadish-choudhary/drone-image-processing):** This project bridges mechanical UAV design and real-time computer vision to create an automated system for continuous surface water monitoring. Designed to replace expensive and labor-intensive manual sampling, the system instantly classifies and visualizes water conditions using live aerial telemetry. It serves as a comprehensive showcase of translating complex visual data into an actionable, real time HUD.
+**[Drone-Assisted Surface Water Quality Classification Using Image Processing](https://github.com/jagadish-choudhary/drone-image-processing):** This project bridges mechanical UAV design and real-time computer vision to create an automated system for continuous surface water monitoring. Designed to replace expensive and labor-intensive manual sampling, the system instantly classifies and visualizes water conditions using live aerial telemetry. It serves as a comprehensive showcase of translating complex visual data into an actionable, real time HUD.
 
 
 ### 📫 Let's Connect
