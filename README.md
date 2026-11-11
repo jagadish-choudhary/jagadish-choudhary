@@ -2,7 +2,7 @@
 
 **ECE Undergrad | Hardware & C Programmer | Builder**
 
-I am an Electronics and Communication Engineering student bridging the gap between physical hardware and low-level software. I build IoT systems, prototype circuits, and write the C/C++ code that makes them run.
+I am an Electronics and Communication Engineering student bridging the gap between physical hardware and low-level software. I build embedded/IoT systems, prototype circuits, and write the C/C++ code that makes them run.
 
 ### 🚀 What I'm Up To
 - 🔭 **Currently building:** Developing a low-cost, non-contact vital-sign monitoring system using 60 GHz radar and infrared sensing to monitor heart rate, respiratory rate, and body surface temperature in real time.
