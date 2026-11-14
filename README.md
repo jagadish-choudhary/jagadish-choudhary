@@ -5,7 +5,7 @@
 I am an Electronics and Communication Engineering student bridging the gap between physical hardware and low-level software. I build embedded/IoT systems, prototype circuits, and write the C/C++ code that makes them run.
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently building:** Developing a low-cost, non-contact vital-sign monitoring system using 60 GHz radar and infrared sensing to monitor heart rate, respiratory rate, and body surface temperature in real time.
+- 🔭 **Currently building:** Developing a low-cost, non-contact vital-sign monitoring system using 60 GHz radar and infrared sensing to monitor heart rate, respiratory rate, and body surface temperature in real time along with SpO2 .
 - 🌱 **Currently learning:** Deep diving into C programming and Machine Learning.
 - 🤝 **Looking to collaborate on:** Hackathons, IoT solutions, and embedded systems projects.
 - ⚡ **Fun fact:** I get so invested in group projects that I often end up contributing beyond my assigned role, researching, troubleshooting and making sure things actually work!
